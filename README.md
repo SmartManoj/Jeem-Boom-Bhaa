@@ -1,5 +1,5 @@
-# Jeem Boom Bhaa
- Control your PC media using hand guestures.
+# Jeem Boom Bhaa 🖖
+ Control your PC media using hand gestures.
 
 Usage:
 <!-- add the usage.png -->
